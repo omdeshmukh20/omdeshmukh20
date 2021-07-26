@@ -14,9 +14,7 @@ As a python developer, I enjoy using my obsessive attention to detail, my unequi
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning statistics (Hons) big data analytics and python with machine learning;
 - 📫 How to reach me: omdeshmukh2026@gmail.com;
-
 </br>
-
 
 📈 **My GitHub Stats:**
 <p>
