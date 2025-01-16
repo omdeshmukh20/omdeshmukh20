@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/om-deshmukh-9284948089/)
 
-I am a Statistician and a Python Developer. I love programming and traveling.
+I am a Statistician and a Python Developer in Quant. I love programming and traveling.
 
 As a python developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
